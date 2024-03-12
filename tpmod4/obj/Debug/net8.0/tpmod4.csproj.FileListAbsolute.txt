@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\bin\Debug\net8.0\tpmod4.exe
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\bin\Debug\net8.0\tpmod4.deps.json
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\bin\Debug\net8.0\tpmod4.runtimeconfig.json
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\bin\Debug\net8.0\tpmod4.dll
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\bin\Debug\net8.0\tpmod4.pdb
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\tpmod4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\tpmod4.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\tpmod4.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\tpmod4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\tpmod4.sourcelink.json
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\tpmod4.dll
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\refint\tpmod4.dll
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\tpmod4.pdb
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\tpmod4.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\tpmod4\tpmod4\obj\Debug\net8.0\ref\tpmod4.dll
